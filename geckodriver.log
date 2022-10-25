@@ -1,0 +1,32 @@
+1665669923065	geckodriver	INFO	Listening on 127.0.0.1:56989
+1665669926124	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56990" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\krupa\\AppData\\Local\\Temp\\rust_mozprofile38iTG7"
+1665669926558	Marionette	INFO	Marionette enabled
+1665669926564	Marionette	INFO	Listening on port 57006
+Read port: 57006
+WebDriver BiDi listening on ws://127.0.0.1:56990
+1665669926704	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\krupa\\AppData\\Local\\Temp\\rust_mozprofile38iTG7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56990/devtools/browser/0a160344-64fd-4b65-b4eb-7fcf6d40ef63
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+1665669938897	Marionette	INFO	Stopped listening on port 57006
+Invalid port. Exiting...
+1665672267821	geckodriver	INFO	Listening on 127.0.0.1:58322
+1665672270877	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58323" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\krupa\\AppData\\Local\\Temp\\rust_mozprofile8DHq3G"
+1665672271154	Marionette	INFO	Marionette enabled
+1665672271158	Marionette	INFO	Listening on port 58336
+Read port: 58336
+WebDriver BiDi listening on ws://127.0.0.1:58323
+1665672271253	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\krupa\\AppData\\Local\\Temp\\rust_mozprofile8DHq3G\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58323/devtools/browser/49bc440e-1859-4130-a531-df3a2ad5a6ca
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+1665672282580	Marionette	INFO	Stopped listening on port 58336
+Invalid port. Exiting...

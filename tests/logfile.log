@@ -1,0 +1,35 @@
+2022-10-16 12:52:49,682 :  INFO : test_e2e : Getting all the shop items
+2022-10-16 12:52:49,757 :  INFO : test_e2e : iphone X
+2022-10-16 12:52:49,909 :  INFO : test_e2e : Entering country name as India
+2022-10-16 12:52:55,125 :  INFO : test_e2e : Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-10-16 13:19:06,456 :  INFO : test_e2e : Getting all the shop items
+2022-10-16 13:19:06,559 :  INFO : test_e2e : iphone X
+2022-10-16 13:19:06,768 :  INFO : test_e2e : Entering country name as India
+2022-10-16 13:19:12,051 :  INFO : test_e2e : Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-10-16 13:19:54,668 :  INFO : test_e2e : Getting all the shop items
+2022-10-16 13:19:54,771 :  INFO : test_e2e : iphone X
+2022-10-16 13:19:54,982 :  INFO : test_e2e : Entering country name as India
+2022-10-16 13:20:00,286 :  INFO : test_e2e : Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-10-17 00:26:15,276 :  INFO : test_e2e : Getting all the shop items
+2022-10-17 00:26:15,361 :  INFO : test_e2e : iphone X
+2022-10-17 00:26:15,511 :  INFO : test_e2e : Entering country name as India
+2022-10-17 00:26:20,732 :  INFO : test_e2e : Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-10-17 00:55:35,750 :  INFO : test_e2e : Getting all the shop items
+2022-10-17 00:55:35,805 :  INFO : test_e2e : iphone X
+2022-10-17 00:55:36,992 :  INFO : test_e2e : Entering country name as India
+2022-10-17 00:55:43,457 :  INFO : test_e2e : Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-10-17 01:11:55,620 :  INFO : test_e2e : Getting all the shop items
+2022-10-17 01:11:55,667 :  INFO : test_e2e : iphone X
+2022-10-17 01:11:56,130 :  INFO : test_e2e : Entering country name as India
+2022-10-17 01:12:01,822 :  INFO : test_e2e : Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-10-17 01:13:59,927 :  INFO : test_e2e : Getting all the shop items
+2022-10-17 01:13:59,969 :  INFO : test_e2e : iphone X
+2022-10-17 01:14:00,452 :  INFO : test_e2e : Entering country name as India
+2022-10-17 01:14:06,162 :  INFO : test_e2e : Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
